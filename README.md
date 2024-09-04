@@ -1,7 +1,7 @@
 # Attendance System Model
 
 ## Description
-This project involves developing a machine learning model for student attendance detection.
+The Attendance System Model project is designed to automate student attendance tracking using advanced facial recognition technology. This system leverages a machine learning model to detect and identify students in real-time via webcam, efficiently recording their attendance and generating detailed logs for each session.
 
 ## Files
 - `requirements.txt`: List of required Python packages.

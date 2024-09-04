@@ -6,7 +6,7 @@ This project involves developing a machine learning model for student attendance
 ## Files
 - `requirements.txt`: List of required Python packages.
 - `model_training.ipynb`: Jupyter Notebook containing model training code.
-- `model.pkl`: [https://drive.google.com/file/d/1bWanX9L267NsGVxC901BHFQJNGjWm89A/view?usp=sharing](#)
+- `model.pkl`: It contains the serialized version of the trained Attendance System Model. 
 
 ## Setup
 1. Clone the repository:
